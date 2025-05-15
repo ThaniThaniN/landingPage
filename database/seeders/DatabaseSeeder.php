@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
             'password' => Hash::make('W@led12@#'),
         ]);
 
-        $this->call(formRequestSeeder::class);
+       // $this->call(formRequestSeeder::class);
 
         $this->call(DefaultSiteSeeder::class);
 
