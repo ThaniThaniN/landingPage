@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;300;400;500;700;800;900&display=swap');
+body {
+  text-align: right;
+    font-family: "Tajawal", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+.hero-area .head-title {
+    color: #fff !important;
+    font-size: 92px;
+    line-height: 60px;
+    margin-bottom: 30px;
+    font-family: "ae_Granada", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+    .hero-area .contents .btn {
+      width: 180px; }
+  #yt-video .video-play-button {
+    padding: 0;
+  }
+.blog-tag{
+    left: 0;
+    right: unset;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 0;
+}
+.features-text{
+    text-align: right;
+}
